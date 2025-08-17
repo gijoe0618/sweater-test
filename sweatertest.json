@@ -13,12 +13,12 @@
 				],
 				"color":
 				{
-					"r": 1,
+					"r": 0,
 					"g": 0,
 					"b": 0,
 					"a": 1
 				},
-				"urlimage": "https://i.imgur.com/JMmTnxm.png"
+				"urlimage": "https://i.imgur.com/mcsuEz0.png"
 			},
 			{
 				"eos": [
@@ -31,12 +31,12 @@
 				],
 				"color":
 				{
-					"r": 1,
-					"g": 1,
+					"r": 0,
+					"g": 0,
 					"b": 0,
 					"a": 1
 				},
-				"urlimage": "https://i.imgur.com/Eqsej5r.jpg"
+				"urlimage": "https://i.imgur.com/HAV0fGf.png"
 			}
 		]
 	}
